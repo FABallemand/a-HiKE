@@ -1,4 +1,2 @@
-*.png
-*.pkl
-
-!inferno.png
+**/data/
+**/model/
